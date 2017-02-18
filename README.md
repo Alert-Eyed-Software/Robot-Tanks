@@ -13,3 +13,4 @@ Open World head-to-head tank battle with robotic/futuristc tanks. WIP. Based off
 * RT01 Updating readme.md
 * RT02 UE4 project setup and gitignore+readme.md update
 * RT03 UE4 project setup II and gitignore update
+* RT04 Basic landscape setup I
